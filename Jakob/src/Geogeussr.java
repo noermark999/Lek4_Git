@@ -18,6 +18,7 @@ public class Geogeussr {
         lande.add("6. Kyrgyzstan");
         lande.add("7. Tuvalu!");
         lande.add("8. Vietnam");
+        lande.add("9. Tjekkiet");
     }
 
     public void start() {

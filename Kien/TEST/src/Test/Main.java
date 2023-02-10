@@ -1,7 +1,10 @@
 package Test;
 
+import java.sql.SQLOutput;
+
 public class Main {
     public static void main(String[] args) {
-        System.out.println("GEOGUESSSSSEEERRRRRR!");
+        Person jakob =  new Person("Jakob",21);
+        System.out.println("Her er:" + jakob);
     }
 }

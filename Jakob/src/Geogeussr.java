@@ -16,6 +16,7 @@ public class Geogeussr {
         lande.add("4. Australien");
         lande.add("5. Chile");
         lande.add("6. Kyrgyzstan");
+        lande.add("Vietnam");
     }
 
     public void start() {

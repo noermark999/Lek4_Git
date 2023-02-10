@@ -15,6 +15,6 @@ public class person {
 
     @Override
     public String toString() {
-        return name + " " + alder + " år" + "Fødseslsdag: " + fødseslsdag;
+        return name + " " + alder + " år" + " " + "Fødseslsdag: " + fødseslsdag;
     }
 }

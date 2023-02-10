@@ -9,12 +9,10 @@ public class Main {
         person Kien = new person("Kien",24,LocalDate.of(1998,6,12));
         person Jeppe = new person("Jeppe",24,LocalDate.of(1998,04,05));
         person Oliver = new person("Oliver",20,LocalDate.of(2002,02,26));
-        System.out.println(Jakob);
-        System.out.println(Kien);
-        System.out.println(Jeppe);
-        System.out.println(Oliver);
-
-
+        System.out.println("Det her er: " + Jakob);
+        System.out.println("Det her er: " +Kien);
+        System.out.println("Det her er: " +Jeppe);
+        System.out.println("Det her er: " +Oliver);
 
     }
 }

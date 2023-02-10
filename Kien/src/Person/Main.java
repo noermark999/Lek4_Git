@@ -10,9 +10,9 @@ public class Main {
         person Jeppe = new person("Jeppe",24,LocalDate.of(1998,04,05));
         person Oliver = new person("Oliver",20,LocalDate.of(2002,02,26));
         System.out.println("Det her er: " + Jakob);
-        System.out.println("Det her er: " +Kien);
-        System.out.println("Det her er: " +Jeppe);
-        System.out.println("Det her er: " +Oliver);
+        System.out.println("Det her er: " + Kien);
+        System.out.println("Det her er: " + Jeppe);
+        System.out.println("Det her er: " + Oliver);
 
     }
 }
